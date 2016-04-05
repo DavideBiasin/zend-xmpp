@@ -1,0 +1,23 @@
+{
+  "name" : "zend-xmppgithub",
+  "description" : "Zend XMPP LIBRARY for ZF2",
+  "version" : "0.0.1",
+  "require" : {
+    "php" : ">=5.6",
+    "zendframework/zendframework" : "~2.4",
+    "phpunit/phpunit" : "5.3.0"
+  },
+  "license" : "BSD-3-Clause",
+  "keywords" : [ "xmpp", "zf2","zend-xmpp" ],
+  "homepage" : "https://github.com/Samuel18/zend-xmpp",
+  "authors" : [ {
+    "name" : "Ventimiglia Samuel",
+    "email" : "sam.ventimiglia@gmail.com",
+    "role" : "Developer"
+  }, {
+    "name" : "Davide Biasin",
+    "email" : "dav.biasin@gmail.com",
+    "role" : "Developer"
+  } ],
+  "minimum-stability" : "stable"
+}
